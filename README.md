@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Priyanshu;Computer+Science+Student;Aspiring+Full-Stack+Developer;Learning+by+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Priyanshu;Computer+Science+Student;Full-Stack+Developer;Learning+by+Building+🚀" />
 </p>
 
 <p align="center">
@@ -31,31 +31,29 @@
 ### 🌐 Web & Tools  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8200?style=for-the-badge)
 
 ---
 
 ## 📌 Featured Projects  
 
+✈️ **Traveleo**  
+> Travel Budget Manager  
+`React.js | Node.js | Express.js | PostgreSQL`
+
 🚰 **AquaSave**  
-> Water/resource management class project  
+> Water & resource management system (academic project)  
 `PHP`
 
-🎬 **Movie Recommendation System**  
-> Data-driven recommendation engine  
-`Python | Jupyter Notebook`
-
 🍕 **Pizza Sales Analysis**  
-> Extracting insights from sales data  
-
-🌐 **Sigma Web Dev Course**  
-> Full-stack learning & practice repository  
-
-🤖 **Machine Learning Coursework**  
-> Academic ML experiments and implementations  
+> Extracting insights and trends from sales data  
+`Python | Data Analysis`
 
 ---
 
@@ -75,8 +73,11 @@
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://github.com/Priyanshu-310704">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <a href="https://www.linkedin.com/in/priyanshu-kumar-020171246/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Prysh_07" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
