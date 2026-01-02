@@ -1,112 +1,62 @@
-# 👋 Hi, I’m Priyanshu
+<h1 align="center">Hey there 👋, I'm Priyanshu!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full-Stack+Developer;Building+Real-World+Products;Learning+by+Shipping+🚀" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Priyanshu-310704&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## 🧠 About Me
-
-I’m a **Computer Science student** focused on building **practical, production-ready applications** rather than just demos.
-
-- 🔨 I enjoy turning ideas into usable products  
-- 🌱 Currently deepening my skills in **full-stack development**  
-- 📊 Exploring **data analysis & machine learning**  
-- 🤝 Open to **collaboration, internships & open-source**  
-
-> **Consistency compounds over time.**
+<div align="center"><b>Full-Stack Developer | Building Real-World, Scalable Applications 🚀</b></div>
 
 ---
 
-## 🛠 Tech Stack
+<!-- 🌐 Socials -->
+<details open>
+<summary><b>🌐 Socials</b></summary>
+<br>
 
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshu-310704)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kumar-020171246/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Prysh_07)
 
-### Web & Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
+---
+</details>
+
+<!-- 🛠 Skills & Tools -->
+<details open>
+<summary><b>🛠 Skills & Tools</b></summary>
+<br>
+  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+<h2 align="center">📈 My Contributions</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-310704&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity graph" />
+</div>
 
 ---
 
-## 🚀 Featured Projects
-
-### ✈️ Traveleo — Travel Budget Manager
-- Plan trips and manage budgets  
-- Track and categorize expenses  
-- Backend-driven architecture  
-
-**Tech:** `React · Node.js · Express · PostgreSQL`
-
----
-
-### 🍕 Pizza Sales Analysis
-- Sales trend analysis  
-- Revenue insights  
-- Visual data exploration  
-
-**Tech:** `Python · Pandas · Data Analysis`
-
----
-
-### 🚰 AquaSave
-Water & resource management system (academic project)
-
-**Tech:** `PHP`
-
----
-
-## 📊 Developer Analytics (Auto-Updating)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-310704&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-310704&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Priyanshu-310704&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution & Productivity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu-310704&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu-310704&theme=tokyonight&utcOffset=5.5" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/priyanshu-kumar-020171246/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/Prysh_07" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=110&section=footer"/>
-</p>
-
-<p align="center">
-  <em>“Consistency beats motivation.”</em>
-</p>
+<div align="center">
+  <h3>Thanks for stopping by! 😊</h3>
+  <p>Building • Learning • Shipping real products</p>
+</div>
