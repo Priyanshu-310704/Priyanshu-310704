@@ -167,48 +167,28 @@ A travel-oriented application designed to help users organize trip information a
 
 ---
 
-## 📈 Contribution Graph
+---
+
+## 🟢 The Contribution Matrix
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-310704&bg_color=1a1b27&color=70a5fd&line=2dd4bf&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Activity" width="100%" alt="GitHub contribution graph" />
+  <a href="https://github.com/Priy anshu-310704">
+    <img src="https://ghchart.rshah.org/2dd4bf/Priyanshu-310704" alt="GitHub contribution graph for Priyanshu Kumar" width="100%" />
+  </a>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/CONSISTENCY-Commit%20by%20commit-0D9488?style=flat-square" alt="Consistency, commit by commit" />
+
+  <p><i>Every contribution is a step forward.</i></p>
 
 </div>
 
 ---
 
-## 🎯 What I'm Working Toward
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### ⚙️ Backend Engineering
-
-- REST API design
-- Authentication & authorization
-- Database design and optimization
-- Caching and concurrency
-- Testing and maintainable architecture
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🏗️ System Design & Infrastructure
-
-- Object-oriented design and SOLID
-- Distributed systems fundamentals
-- Event-driven architecture
-- Docker and CI/CD
-- Observability and deployment
-
-    </td>
-  </tr>
-</table>
-
 ---
 
-<div align="center">
 
   ### 💡 My Engineering Philosophy
 
